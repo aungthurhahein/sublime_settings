@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"C Improved",
+		"ClangAutoComplete",
+		"Emmet",
+		"Jedi - Python autocompletion",
+		"LaTeXTools",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"Python Auto-Complete",
+		"SideBarEnhancements",
+		"SSL",
+		"SublimeCodeIntel",
+		"SublimeREPL"
+	]
+}
