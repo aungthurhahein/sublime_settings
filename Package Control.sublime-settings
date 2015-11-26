@@ -10,16 +10,17 @@
 		"C Improved",
 		"ClangAutoComplete",
 		"Emmet",
-		"Jedi - Python autocompletion",
+		"Git",
 		"LaTeXTools",
 		"Markdown Extended",
 		"Markdown Preview",
 		"Material Theme",
 		"Package Control",
-		"Python Auto-Complete",
+		"Python Improved",
 		"SideBarEnhancements",
 		"SSL",
 		"SublimeCodeIntel",
-		"SublimeREPL"
+		"SublimeREPL",
+		"Terminal"
 	]
 }
